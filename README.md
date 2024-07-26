@@ -1,8 +1,8 @@
 # Blog Webpage 
 
-## Project Overview
 This project is a responsive blog webpage built using HTML and CSS. It features a header, main content area with multiple blog cards, and is designed to be fully responsive for all screen sizes, ensuring a seamless user experience on both desktop and mobile devices.
 
+ **[View Live](https://manish-singh-ranawat.github.io/Blog-webpage/)**
 
 ## Features
 - **Responsive Design**: The webpage adjusts its layout to fit all screen sizes, from desktop to mobile.
